@@ -1,4 +1,4 @@
-import Sidebar from './Components/Sidebar/SIdebar.jsx'
+import Sidebar from './Components/Sidebar/Sidebar.jsx'
 
 function App() {
   return (
